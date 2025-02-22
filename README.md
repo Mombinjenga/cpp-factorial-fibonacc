@@ -6,7 +6,8 @@ This repository contains two C++ programs:
 2. Fibonacci Program: Generates the Fibonacci sequence up to `n` terms.
 
 
-## Persnal Details:
-- Name: Eunice Mumbi 
+## Personal Details:
+- Name:Eunice Mumbi 
 - REG NO:EB3/61501/22
-- Course/Assignment: C++ Programming - Factorial & Fibonacci with runtime measurement.
+- Course:Analysis and Design of Algorithms
+- Assignment:Factorial & Fibonacci with runtime measurement.
